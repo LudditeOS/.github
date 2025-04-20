@@ -1,12 +1,39 @@
-## Hi there 👋
+# LudditeOS
 
-<!--
+## Tools, Not Distractions: Reclaim Your Digital Focus
 
-**Here are some ideas to get you started:**
+LudditeOS is an open-source project aimed at creating a smartphone operating system that respects your attention and mental wellbeing. Based on LineageOS, our mission is to transform smartphones back into purposeful tools rather than endless sources of entertainment and distraction.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Approach
+
+- **Removing Attention Hijackers**: We've stripped out the default browser and app stores to prevent mindless browsing and social media use
+- **Intentional Web Access**: Our custom Launcher provides access to essential web apps (transportation, language translation, etc.) without the temptation of endless scrolling
+- **Minimal Digital Environment**: Focus on utility applications like messaging, email, and productivity tools
+
+### Current Status
+
+LudditeOS is currently in early development and being actively tested daily. We're continuously refining the experience based on real-world usage.
+
+Current supported devices:
+
+- Google Pixel 6
+- (we are working on adding more of the LineageOS supported devices)
+
+### Technical Implementation
+
+- **Base**: Custom build of LineageOS for Pixel 6
+- **Core Components**:
+  - Custom Launcher app for a distraction-free home screen
+  - LudditeInstaller for controlled app installation
+  - Integration with privacy-focused services (Proton Mail, Drive, etc.)
+  - Capacitor-based web views
+
+### Join Our Mission
+
+If you believe smartphones should enhance your life without commanding your attention, we welcome your contributions. Whether you're a developer, designer, or simply interested in using a more mindful mobile OS, connect with us.
+
+Contact: github.quintet633@passmail.net
+
+---
+
+_"Technology should be a powerful tool in your hands, not a powerful influence on your mind."_
