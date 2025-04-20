@@ -110,7 +110,7 @@ LudditeOS ist ein Open-Source-Projekt, das ein Smartphone-Betriebssystem entwick
 - **Bewusster Web-Zugang**: Unser eigener Launcher bietet Zugang zu wichtigen Web-Apps (sbb, translator, usw.) ohne die Versuchung des endlosen Scrollens
 - **Minimale digitale Umgebung**: Fokus auf nützliche Anwendungen wie Messaging, E-Mail und Produktivitätstools
 
-### Ideale Anwendungsfälle
+### Mögliche Anwendungsfälle
 
 Je nach deinen Bedürfnissen und digitalen Wellness-Zielen kann LudditeOS verschiedene Zwecke erfüllen:
 
