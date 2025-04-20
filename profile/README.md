@@ -12,6 +12,12 @@
 [![Mirror Pulls](https://img.shields.io/docker/pulls/oli1115/ludditemirrorsync)](https://hub.docker.com/r/oli1115/ludditemirrorsync)
 [![Download Server Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver)
 
+<details>
+  <summary>🇬🇧 English</summary>
+
+</br>
+</br>
+
 # Tools, Not Distractions: Reclaim Your Digital Focus
 
 LudditeOS is an open-source project aimed at creating a smartphone operating system that respects your attention and mental wellbeing. Based on LineageOS, our mission is to transform smartphones back into purposeful tools rather than endless sources of entertainment and distraction.
@@ -76,3 +82,79 @@ Contact: github.quintet633@passmail.net
 ---
 
 _"Technology should be a powerful tool in your hands, not a powerful influence on your mind."_
+
+</br>
+</details>
+
+<details open>
+  <summary>🇩🇪 Deutsch</summary>
+
+</br>
+</br>
+
+# Werkzeuge statt Ablenkungen: Gewinne deinen digitalen Fokus zurück
+
+LudditeOS ist ein Open-Source-Projekt, das ein Smartphone-Betriebssystem entwickelt, das deine Aufmerksamkeit und dein mentales Wohlbefinden respektiert. Unsere Mission ist Smartphones wieder in nützliche Werkzeuge zu verwandeln, anstatt endlose Quellen der Unterhaltung und Ablenkung zu sein.
+
+<p align="center">
+  <a href="https://youtube.com/shorts/2l0QxLJ_-Iw?feature=share">
+    <img src="/profile/image/imagemockup.png" width="300" alt="Klick, um das LudditeOS-Demo anzusehen">
+  </a>
+  <br>
+  <em>👆 Klick auf das Bild, um das Demo-Video anzusehen</em>
+</p>
+
+### Unser Ansatz
+
+- **Entfernung von Aufmerksamkeitsräubern**: Wir haben den Standard-Browser und App-Stores entfernt, um gedankenloses Surfen und Social-Media-Nutzung zu verhindern
+- **Bewusster Web-Zugang**: Unser eigener Launcher bietet Zugang zu wichtigen Web-Apps (sbb, translator, usw.) ohne die Versuchung des endlosen Scrollens
+- **Minimale digitale Umgebung**: Fokus auf nützliche Anwendungen wie Messaging, E-Mail und Produktivitätstools
+
+### Ideale Anwendungsfälle
+
+Je nach deinen Bedürfnissen und digitalen Wellness-Zielen kann LudditeOS verschiedene Zwecke erfüllen:
+
+- Erstes Handy für Kinder: Gib deinem Kind die wichtigsten Kommunikationswerkzeuge (SMS, Anrufe, WhatsApp) und schütze es gleichzeitig vor digitalen Ablenkungen und Online-Risiken
+- Digital-Detox-Begleiter: Nutze es als Zweitgerät während der Arbeitszeit, im Urlaub oder immer dann, wenn du konzentrierte Zeit brauchst, ohne auf wesentliche Konnektivität zu verzichten
+- Achtsames Hauptgerät: Ersetze dein aktuelles Smartphone durch eine bewusstere Alternative, die deine Aufmerksamkeit und Zeit respektiert
+
+### Wichtige Tools & Anwendungen
+
+LudditeOS konzentriert sich darauf, Zugang zu wesentlichen Diensten zu bieten, ohne die Nachteile eines völlig offenen Ökosystems:
+
+- Kommunikation: WhatsApp, SMS, Telefonate
+- Navigation & Verkehr: Karten, Fahrpläne für öffentliche Verkehrsmittel, Mitfahrdienste
+- Produktivität: Proton Mail, Proton Drive, Proton Calendar
+- Hilfsprogramme: Kamera, Taschenrechner, Notizen
+
+_Wir freuen uns über Vorschläge der Community für zusätzliche wichtige Tools, die zu unserer Philosophie passen_
+
+### Aktueller Status
+
+LudditeOS befindet sich derzeit in der frühen Entwicklung und wird täglich aktiv getestet. Wir verbessern die Erfahrung kontinuierlich auf Basis der realen Nutzung.
+
+Aktuell unterstützte Geräte:
+
+- Google Pixel 6
+- (wir arbeiten daran, weitere von LineageOS unterstützte Geräte hinzuzufügen)
+
+### Technische Umsetzung
+
+- **Basis**: Angepasster Build von LineageOS für Pixel 6
+- **Kernkomponenten**:
+  - Eigener Launcher für einen ablenkungsfreien Startbildschirm
+  - LudditeInstaller für kontrollierte App-Installation
+  - Integration mit datenschutzorientierten Diensten (Proton Mail, Drive, usw.)
+  - Capacitor-basierte Web-Ansichten
+
+### Mach mit bei unserer Mission
+
+Wenn du glaubst, dass Smartphones dein Leben bereichern sollten, ohne deine Aufmerksamkeit zu beanspruchen, freuen wir uns über deinen Beitrag. Egal ob du Entwickler*in, Designer*in bist oder einfach nur Interesse hast, ein achtsameres mobiles Betriebssystem zu nutzen - nimm Kontakt mit uns auf.
+
+Kontakt: github.quintet633@passmail.net
+
+---
+
+_"Technologie sollte ein mächtiges Werkzeug in deinen Händen sein, nicht ein mächtiger Einfluss auf deinen Geist."_
+
+</details>
