@@ -16,6 +16,14 @@
 
 LudditeOS is an open-source project aimed at creating a smartphone operating system that respects your attention and mental wellbeing. Based on LineageOS, our mission is to transform smartphones back into purposeful tools rather than endless sources of entertainment and distraction.
 
+<p align="center">
+  <a href="https://youtube.com/shorts/2l0QxLJ_-Iw?feature=share">
+    <img src="/profile/image/imagemockup.png" width="300" alt="Click to watch LudditeOS demo">
+  </a>
+  <br>
+  <em>👆 Click the image to watch the demo video</em>
+</p>
+
 ### Our Approach
 
 - **Removing Attention Hijackers**: We've stripped out the default browser and app stores to prevent mindless browsing and social media use
