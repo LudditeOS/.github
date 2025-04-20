@@ -1,16 +1,16 @@
 # LudditeOS
 
-Here's the table with the Docker Image column removed:
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Status](https://img.shields.io/badge/Status-Early%20Development-yellow)](https://github.com/ostaubzug/LudditeOS)
+[![Devices](https://img.shields.io/badge/Supported%20Devices-Pixel%206-green)](https://github.com/ostaubzug/LudditeOS)
 
-| Repository | CI | Pulls |
-|------------|----|---------| 
-| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditebuild)](https://hub.docker.com/r/oli1115/ludditebuild) |
-| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditemirrorsync)](https://hub.docker.com/r/oli1115/ludditemirrorsync) |
-| _private Repo right now_| | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver) |
-| [LudditeFocusLauncher](https://github.com/ostaubzug/LudditeFocusLauncher) | [![CI](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml) | |
-| [LudditeInstaller](https://github.com/LudditeOS/LudditeInstaller) | [![CI](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml/badge.svg)](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml) | |
-
-<br>
+[![CI Build](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml)
+[![CI Mirror](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml)
+[![Launcher CI](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml)
+[![Installer CI](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml/badge.svg)](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml)
+[![Build Pulls](https://img.shields.io/docker/pulls/oli1115/ludditebuild)](https://hub.docker.com/r/oli1115/ludditebuild)
+[![Mirror Pulls](https://img.shields.io/docker/pulls/oli1115/ludditemirrorsync)](https://hub.docker.com/r/oli1115/ludditemirrorsync)
+[![Download Server Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver)
 
 # Tools, Not Distractions: Reclaim Your Digital Focus
 
