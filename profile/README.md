@@ -10,6 +10,25 @@ LudditeOS is an open-source project aimed at creating a smartphone operating sys
 - **Intentional Web Access**: Our custom Launcher provides access to essential web apps (transportation, language translation, etc.) without the temptation of endless scrolling
 - **Minimal Digital Environment**: Focus on utility applications like messaging, email, and productivity tools
 
+### Ideal Use Cases
+
+Depending on your needs and digital wellness goals, LudditeOS can serve different purposes:
+
+- First Phone for Children: Provide your child with essential communication tools (text, calls, WhatsApp) while protecting them from digital distractions and online risks
+- Digital Detox Companion: Use as a secondary device during work hours, vacations, or whenever you need focused time without sacrificing essential connectivity
+- Mindful Primary Device: Replace your current smartphone with a more intentional alternative that respects your attention and time
+
+### Essential Tools & Applications
+
+LudditeOS focuses on providing access to essential services without the downsides of a fully open ecosystem:
+
+- Communication: WhatsApp, SMS, Phone calls
+- Navigation & Transport: Maps, public transport timetables, ride-sharing services
+- Productivity: Proton Mail, Proton Drive, Proton Calendar
+- Utilities: Camera, calculator, notes
+
+_We welcome community suggestions for additional essential tools that align with our philosophy_
+
 ### Current Status
 
 LudditeOS is currently in early development and being actively tested daily. We're continuously refining the experience based on real-world usage.
