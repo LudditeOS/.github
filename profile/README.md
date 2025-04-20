@@ -1,12 +1,14 @@
 # LudditeOS
 
-| Repository | CI | Docker Image | Pulls |
-|------------|----|--------------|---------| 
-| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml) | [oli1115/ludditebuild](https://hub.docker.com/r/oli1115/ludditebuild) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditebuild)](https://hub.docker.com/r/oli1115/ludditebuild) |
-| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml) | [oli1115/ludditemirrorsync](https://hub.docker.com/r/oli1115/ludditemirrorsync) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditemirrorsync)](https://hub.docker.com/r/oli1115/ludditemirrorsync) |
-| _private Repo right now_| | [oli1115/ludditedownloadserver](https://hub.docker.com/r/oli1115/ludditedownloadserver) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver) |
-| [LudditeFocusLauncher](https://github.com/ostaubzug/LudditeFocusLauncher) | [![CI](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml) | | |
-| [LudditeInstaller](https://github.com/LudditeOS/LudditeInstaller) | [![CI](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml/badge.svg)](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml) | | |
+Here's the table with the Docker Image column removed:
+
+| Repository | CI | Pulls |
+|------------|----|---------| 
+| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-build.yml) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditebuild)](https://hub.docker.com/r/oli1115/ludditebuild) |
+| [LudditeOSBashScripts](https://github.com/ostaubzug/LudditeOSBashScripts) | [![CI](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml/badge.svg)](https://github.com/ostaubzug/LudditeOSBashScripts/actions/workflows/docker-publish-mirror.yml) | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditemirrorsync)](https://hub.docker.com/r/oli1115/ludditemirrorsync) |
+| _private Repo right now_| | [![Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver) |
+| [LudditeFocusLauncher](https://github.com/ostaubzug/LudditeFocusLauncher) | [![CI](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/ostaubzug/LudditeFocusLauncher/actions/workflows/android.yml) | |
+| [LudditeInstaller](https://github.com/LudditeOS/LudditeInstaller) | [![CI](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml/badge.svg)](https://github.com/LudditeOS/LudditeInstaller/actions/workflows/android.yml) | |
 
 <br>
 
