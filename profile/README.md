@@ -13,7 +13,7 @@
 [![Download Server Pulls](https://img.shields.io/docker/pulls/oli1115/ludditedownloadserver)](https://hub.docker.com/r/oli1115/ludditedownloadserver)
 
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>🇬🇧🇺🇸 English</summary>
 
 </br>
 </br>
@@ -87,7 +87,7 @@ _"Technology should be a powerful tool in your hands, not a powerful influence o
 </details>
 
 <details open>
-  <summary>🇩🇪 Deutsch</summary>
+  <summary>🇨🇭🇦🇹🇩🇪 Deutsch</summary>
 
 </br>
 </br>
